@@ -4,10 +4,10 @@ This repository is an attempt to imply some core concepts of SQL programming wit
 
 - The first part covers the basics of PostgreSQL programming with implementation of some trivial databases in order to practice the concepts. The notebook is inspired by zetcode.com's tutorial for the PostgreSQL database and postgresql's documentation. The popular psycopg2 library is used in this implementation and it is executed on a JN.
 
-  <A href='http://nbviewer.jupyter.org/github/sametmarasli/PostgreSQL_SQLite/blob/master/sqlite%26python.ipynb'>psql&python</A><BR>
+  <A href='http://nbviewer.jupyter.org/github/sametmarasli/PostgreSQL_SQLite/blob/master/psql%26python.ipynb'>psql&python</A><BR>
 
 
-- The second part covers the fundamentals of SQLite programming again with the implementation of some trivial databases for practice purporses. The material is inspired by the Coursera's course Using Databases with Python by University of Michigan. sqlite3 library is used in this implementation and again it is executed on a JN.
+- The second part covers the fundamentals of SQLite programming again with the implementation of some trivial databases for practice purposes. The material is inspired by the Coursera's course Using Databases with Python by University of Michigan. sqlite3 library is used in this implementation and again it is executed on a JN.
 
   <A href='http://nbviewer.jupyter.org/github/sametmarasli/PostgreSQL_SQLite/blob/master/sqlite%26python.ipynb'>sqlite&python</A><BR>
 
